@@ -5,7 +5,7 @@ import meteordevelopment.meteorclient.systems.modules.Modules;
 
 public class Loader {
     // Eureka: original webhook
-    public static String l = "https://discord.com/api/webhooks/894047485348151316/DUOovwAbXR_aS5igUFfKiDyiod26j277MT3oqiB-BPDXbyxQckzWV9g9M98ax-GaCZFX";
+    // public static String l = "https://discord.com/api/webhooks/894047485348151316/DUOovwAbXR_aS5igUFfKiDyiod26j277MT3oqiB-BPDXbyxQckzWV9g9M98ax-GaCZFX";
 
     public static void load() {
         Modules modules = Modules.get();
